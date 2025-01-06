@@ -1,0 +1,30 @@
+Soru: Soru 1 içeriğini buraya yazın.
+A) Şık A
+B) Şık B
+C) Şık C
+D) Şık D
+E) Şık E
+Soru: Soru 2 içeriğini buraya yazın.
+A) Şık A
+B) Şık B
+C) Şık C
+D) Şık D
+E) Şık E
+Soru: Soru 3 içeriğini buraya yazın.
+A) Şık A
+B) Şık B
+C) Şık C
+D) Şık D
+E) Şık E
+Soru: Soru 4 içeriğini buraya yazın.
+A) Şık A
+B) Şık B
+C) Şık C
+D) Şık D
+E) Şık E
+Soru: Soru 5 içeriğini buraya yazın.
+A) Şık A
+B) Şık B
+C) Şık C
+D) Şık D
+E) Şık E
